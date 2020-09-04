@@ -1,0 +1,11 @@
+{
+	"toggl": {
+		"username": "<Your API Key>",
+		"password": "api_token",
+		"getTimes": "https://www.toggl.com/api/v8/time_entries",
+		"postTimes": "https://toggl.com/api/v9/time_entries",
+		"defaultDuration": 28800,
+		"projectId": "<Your Project Id>",
+		"workspaceId": "<Your Workspace Id>"
+	}
+}
